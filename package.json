@@ -1,6 +1,6 @@
 {
   "name": "niizuki",
-  "version": "0.0.2-pre-release",
+  "version": "0.0.3-pre-release",
   "description": "A simple wrapper for discord music bot.",
   "main": "src/index.js",
   "scripts": {
