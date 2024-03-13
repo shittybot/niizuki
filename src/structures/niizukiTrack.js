@@ -4,7 +4,7 @@ const escapeRegExp = (str) => str.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 class Track {
   constructor(data, requester, node) {
     this.track = data.encoded;
-    requester = `<@${requester}>`;
+    requester = requester;
     this.info = {
       identifier: data.info.identifier,
       seekable: data.info.isSeekable,
