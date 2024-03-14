@@ -41,7 +41,7 @@ data-urls@^5.0.0:
     whatwg-mimetype "^4.0.0"
     whatwg-url "^14.0.0"
 
-debug@^4.3.4, debug@4:
+debug@4, debug@^4.3.4:
   version "4.3.4"
   resolved "https://registry.npmjs.org/debug/-/debug-4.3.4.tgz"
   integrity sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ==
@@ -223,9 +223,9 @@ tr46@^5.0.0:
     punycode "^2.3.1"
 
 undici@^6.8.0:
-  version "6.8.0"
-  resolved "https://registry.npmjs.org/undici/-/undici-6.8.0.tgz"
-  integrity sha512-22FP0QRSJDQO2PC+bMBVqvsZ3cNQwQnxCNq910N3eIIU4xgMVVpLbEEX7fCg7AalvijPwjlyk5ezenw9FqZfHQ==
+  version "6.9.0"
+  resolved "https://registry.yarnpkg.com/undici/-/undici-6.9.0.tgz#281b3c8bf29cafa957e743ab2a710b586b01e66e"
+  integrity sha512-XPWfXzJedevUziHwun70EKNvGnxv4CnfraFZ4f/JV01+fcvMYzHE26r/j8AY/9c/70nkN4B1zX7E2Oyuqwz4+Q==
 
 universalify@^0.2.0:
   version "0.2.0"
