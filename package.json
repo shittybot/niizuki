@@ -1,6 +1,6 @@
 {
   "name": "niizuki",
-  "version": "0.0.3-pre-release",
+  "version": "1.0.0",
   "description": "A simple wrapper for discord music bot.",
   "main": "src/index.js",
   "scripts": {
@@ -11,7 +11,23 @@
   "dependencies": {
     "@discordjs/collection": "^2.0.0",
     "jsdom": "^24.0.0",
-    "undici": "^6.7.1",
+    "undici": "^6.8.0",
     "ws": "^8.16.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shittybot/niizuki.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shittybot/niizuki/issues"
+  },
+  "homepage": "https://github.com/shittybot/niizuki#readme",
+  "keywords": [
+    "wrapper",
+    "discord",
+    "lavalink-v4",
+    "lavalink",
+    "music-bot"
+  ],
+  "devDependencies": {}
 }
